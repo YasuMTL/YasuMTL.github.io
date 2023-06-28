@@ -22,7 +22,7 @@ title: Yasu in MTL!
 email: yasunari.k@mail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Yasu's personal blog concerning Android Development.
-baseurl: "/my-site" # the subpath of your site, e.g. /blog
+#baseurl: "/my-site" # the subpath of your site, e.g. /blog
 #url: "https://yasu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://yasu1989.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JP_QC_bot
