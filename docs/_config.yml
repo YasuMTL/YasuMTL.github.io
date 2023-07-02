@@ -29,8 +29,8 @@ twitter_username: JP_QC_bot
 github_username:  YasuMTL
 
 # Build settings
-#theme: minima
-remote_theme: abhinavs/moonwalk
+theme: minima
+#remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
   - jekyll-titles-from-headings
