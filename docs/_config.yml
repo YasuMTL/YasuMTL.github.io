@@ -30,7 +30,8 @@ github_username:  YasuMTL
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+theme: jekyll-theme-mininmal
 #remote_theme: abhinavs/moonwalk
 #remote_theme: pages-themes/minimal@v0.2.0
 plugins:
