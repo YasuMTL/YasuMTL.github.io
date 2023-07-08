@@ -58,8 +58,9 @@ footer_entries:
   #  url: https://www.abhinav.co
 
   - title: twitter
-#    url: https://twitter.com/abhinav
-     url: https://twitter.com/yasunari_k_
+    #url: https://twitter.com/abhinav
+    url: https://twitter.com/yasunari_k_
+     
   - title: github
 #    url: https://github.com/abhinavs
     url: https://github.com/YasuMTL
