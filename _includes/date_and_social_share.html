@@ -3,7 +3,8 @@
     <span class="text-upcase">{{ page.author }}</span> / 
   {% endif %}
   {% if page.date %}
-    <span class="text-upcase">{{ page.date | date: "%B %Y"}}</span>
+    <!--<span class="text-upcase">{{ page.date | date: "%d %B %Y"}}</span>-->
+	<span class="text-upcase">{{ page.date | date: "%Y-%m-%d"}}</span>
   {% endif %}
 
 {% if site.theme_config.show_reading_time == true %}
