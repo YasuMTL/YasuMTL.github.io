@@ -57,11 +57,11 @@ footer_entries:
   #- title: Yasu's homepage
   #  url: https://www.abhinav.co
 
-  - title: twitter
+  - title: Twitter
     #url: https://twitter.com/abhinav
     url: https://twitter.com/yasunari_k_
      
-  - title: github
+  - title: GitHub
 #    url: https://github.com/abhinavs
     url: https://github.com/YasuMTL
 #  - title: feed
