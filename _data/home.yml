@@ -9,17 +9,13 @@ navbar_entries:
   #  url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Saezuri for Twitter
+    url: https://play.google.com/store/apps/details?id=com.yasunari_k.saezuri
+    desc: Client Twitter app which has one single window to tweet
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Currency Converter
+    url: https://play.google.com/store/apps/details?id=com.yasu_k.currencyconverter
+    desc: Convert one currency into another in order to check its corresponding value.
 
  # - title: Project 4
  #   url: overview-post
@@ -58,11 +54,9 @@ footer_entries:
   #  url: https://www.abhinav.co
 
   - title: Twitter
-    #url: https://twitter.com/abhinav
     url: https://twitter.com/yasunari_k_
      
   - title: GitHub
-#    url: https://github.com/abhinavs
     url: https://github.com/YasuMTL
 #  - title: feed
 #   url: feed.xml
