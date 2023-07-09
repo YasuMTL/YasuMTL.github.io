@@ -8,5 +8,4 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 Sincerely,
 
 Yasunari Kanemitsu\
-Montréal, Canada\
-yasunari.k@hotmail.com
+Montréal, Canada
