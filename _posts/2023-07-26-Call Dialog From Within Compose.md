@@ -86,8 +86,7 @@ fun ReturnConfirmationDialogUI(
         elevation = 8.dp
     ) {
         Column(
-            modifier
-                .background(Color.White)
+            modifier.background(Color.White)
 		){
 			Column(modifier = Modifier.padding(16.dp)) {
 				Text(
