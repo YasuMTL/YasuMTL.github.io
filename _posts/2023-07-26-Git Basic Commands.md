@@ -9,3 +9,8 @@ While I was struggling to creat this blog, I got familir with 4 basic Git comman
 2. git status : See all the files name which were added by the "git add ." command.
 3. git commit -m "Commit Message" : Save on the current branch the changes added by the "git add ." command.
 4. git push : Upload the changes to a remote repository.
+
+P.S.
+If you want to see how your post looks, you can test it on your localhost by executing this command:
+
+**bundle exec jekyll serve**
